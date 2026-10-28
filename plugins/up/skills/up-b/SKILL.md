@@ -2,4 +2,4 @@
 name: up-b
 description: Version two skill up-b.
 ---
-BADUPZQ
+V2 body for up-b.
