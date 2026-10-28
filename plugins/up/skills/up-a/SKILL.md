@@ -1,5 +1,5 @@
 ---
 name: up-a
-description: Version one skill up-a.
+description: Version two skill up-a.
 ---
-V1 body for up-a.
+V2 body for up-a.
